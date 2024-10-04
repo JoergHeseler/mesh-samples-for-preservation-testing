@@ -1,13 +1,13 @@
-# 3d_sample_files_for_digital_preservation_testing
+# 3d-sample-files-for-digital-preservation-testing
  
 ## Related projects
 
-- [3d_sample_files_for_digital_preservation_testing](https://github.com/JoergHeseler/3d_sample_files_for_digital_preservation_testing)
-- [dae_validator_for_archivematica](https://github.com/JoergHeseler/dae_validator_for_archivematica)
-- [gltf_validator_for_archivematica](https://github.com/JoergHeseler/gltf_validator_for_archivematica)
-- [siegfried_falls_back_on_fido_identifier_for_archivematica](https://github.com/JoergHeseler/siegfried_falls_back_on_fido_identifier_for_archivematica)
-- [stl_validator_for_archivematica](https://github.com/JoergHeseler/stl_validator_for_archivematica)
-- [x3d_validator_for_archivematica](https://github.com/JoergHeseler/x3d_validator_for_archivematica)
+- [3d-sample-files-for-digital-preservation-testing](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing)
+- [dae-validator-for-archivematica](https://github.com/JoergHeseler/dae-validator-for-archivematica)
+- [gltf-validator-for-archivematica](https://github.com/JoergHeseler/gltf-validator-for-archivematica)
+- [siegfried-falls-back-on-fido-identifier-for-archivematica](https://github.com/JoergHeseler/siegfried-falls-back-on-fido-identifier-for-archivematica)
+- [stl-validator-for-archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
+- [x3d-validator-for-archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
 
 ## Imprint
 
