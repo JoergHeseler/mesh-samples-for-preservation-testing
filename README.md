@@ -2,7 +2,6 @@
  
 ## Related projects
 
-- [3d-sample-files-for-digital-preservation-testing](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing)
 - [dae-validator-for-archivematica](https://github.com/JoergHeseler/dae-validator-for-archivematica)
 - [gltf-validator-for-archivematica](https://github.com/JoergHeseler/gltf-validator-for-archivematica)
 - [siegfried-falls-back-on-fido-identifier-for-archivematica](https://github.com/JoergHeseler/siegfried-falls-back-on-fido-identifier-for-archivematica)
