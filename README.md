@@ -1,5 +1,7 @@
 # 3d-sample-files-for-digital-preservation-testing
- 
+
+This repository provides 3d sample files in various formats and subversions for digital preservation testing.
+
 ## Related projects
 
 - [dae-validator-for-archivematica](https://github.com/JoergHeseler/dae-validator-for-archivematica)
