@@ -1,6 +1,6 @@
 # 3d-sample-files-for-digital-preservation-testing
 
-This repository provides 3d sample files in various formats and subversions for digital preservation testing.
+This repository provides 3d sample files in various formats and subversions for testing with digital preservation tools.
 
 ## Related projects
 
