@@ -4,11 +4,11 @@ This repository provides sample 3D files in various “archive-friendly” forma
 
 ## Related projects
 
-- [dae-validator-for-archivematica](https://github.com/JoergHeseler/dae-validator-for-archivematica)
-- [gltf-validator-for-archivematica](https://github.com/JoergHeseler/gltf-validator-for-archivematica)
-- [siegfried-falls-back-on-fido-identifier-for-archivematica](https://github.com/JoergHeseler/siegfried-falls-back-on-fido-identifier-for-archivematica)
-- [stl-validator-for-archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
-- [x3d-validator-for-archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
+- [DAE Validator for Archivematica](https://github.com/JoergHeseler/dae-validator-for-archivematica)
+- [glTF Validator for Archivematica](https://github.com/JoergHeseler/gltf-validator-for-archivematica)
+- [Siegfried Falls Back on Fido Identifier for Archivematica](https://github.com/JoergHeseler/siegfried-falls-back-on-fido-identifier-for-archivematica)
+- [STL Validator for Archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
+- [X3D Validator for Archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
 
 ## Imprint
 
