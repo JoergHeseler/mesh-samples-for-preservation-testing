@@ -1,4 +1,4 @@
-# 3D Sample Files for Digital Preservation Testing [Work in Progress]
+# 3D Sample Files for Digital Preservation Testing [WORK IN PROGRESS]
 
 This repository provides sample 3D files in various “archive-friendly” formats and subversions for testing with digital preservation tools.
 
