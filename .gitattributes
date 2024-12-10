@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+git lfs track "*.dae"
+git lfs track "*.dxf"
+git lfs track "*.stl"
