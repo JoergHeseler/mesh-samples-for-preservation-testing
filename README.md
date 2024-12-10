@@ -6,11 +6,11 @@ This repository provides sample 3D files in various “archive-friendly” forma
 
 A an empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned 3D model of a Balinese demon mask (**mask**)[^1] are each provided in different archive-friendly formats.
 
-| Object name | Description               | Vertices | Colors/Texture/Camera/Lighting | Thumb                          |
-| ----------- | ------------------------- | -------- | ------------------------------ | ------------------------------ |
-| `minimal`   | empty scene               | 0        | no                             | ![](.github/media/minimal.jpg) |
-| `cube`      | simple box mesh           | 12       | no                             | ![](.github/media/cube.jpg)    |
-| `mask`      | 3D scanned demon mask[^1] | 62.323   | yes, if supported              | ![](.github/media/mask.jpg)    |
+| Object name | Description                        | Vertices | Colors/Texture/Camera/Lighting | Thumb                          |
+| ----------- | ---------------------------------- | -------- | ------------------------------ | ------------------------------ |
+| `minimal`   | empty scene                        | 0        | no                             | ![](.github/media/minimal.jpg) |
+| `cube`      | simple box mesh                    | 12       | no                             | ![](.github/media/cube.jpg)    |
+| `mask`      | 3D scanned Balinese demon mask[^1] | 62.323   | yes, if supported              | ![](.github/media/mask.jpg)    |
 
 All file names follow the following naming pattern:
 
