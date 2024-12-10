@@ -11,11 +11,11 @@ Each file name follows the following structure:
 
 The tools [Blender](https://www.blender.org/), [Meshlab](https://www.meshlab.net/) and [CloudCompare](https://www.danielgm.net/cc/) were used for file conversion. Files ending with `-valid` pass validation with the validator scripts developed as part of this project. Invalid files, on the other hand, contain a short error description at the end of the file name.
 
-| Object name | Description               | Vertices | Colors/Texture/Camera/Lighting | Thumb                   |
-| ----------- | ------------------------- | -------- | ------------------------------ | ----------------------- |
-| `minimal`   | empty scene               | 0        | no                             | ![](images/minimal.jpg) |
-| `cube`      | simple box mesh           | 12       | no                             | ![](images/cube.jpg)    |
-| `mask`      | 3D scanned demon mask[^1] | 62.323   | yes, if supported              | ![](images/mask.jpg)    |
+| Object name | Description               | Vertices | Colors/Texture/Camera/Lighting | Thumb                          |
+| ----------- | ------------------------- | -------- | ------------------------------ | ------------------------------ |
+| `minimal`   | empty scene               | 0        | no                             | ![](.github/media/minimal.jpg) |
+| `cube`      | simple box mesh           | 12       | no                             | ![](.github/media/cube.jpg)    |
+| `mask`      | 3D scanned demon mask[^1] | 62.323   | yes, if supported              | ![](.github/media/mask.jpg)    |
 
 ## Related projects
 
