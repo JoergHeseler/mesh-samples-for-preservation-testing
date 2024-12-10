@@ -2,6 +2,10 @@
 
 This repository provides sample 3D files in various “archive-friendly” formats and subversions for testing with digital preservation tools.
 
+## Files
+
+A an empty scene (**minimal**), a 3D model with very few vertices (**cube**) and a complex model with very many vertices (**kakadu**), where possible with textures, camera and lighting, are each provided in different archive-friendly formats. The file names consist of the object name, followed by the file format, the version or type, the changes made and finally the validation result.
+
 ## Related projects
 
 - [DAE Validator for Archivematica](https://github.com/JoergHeseler/dae-validator-for-archivematica)
