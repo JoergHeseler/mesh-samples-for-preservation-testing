@@ -4,7 +4,7 @@ This repository provides sample 3D files in various “archive-friendly” forma
 
 ## Files
 
-A an empty scene (**minimal**), a 3D model with very few vertices (**cube**) and a complex model with very many vertices (**kakadu**), where possible with textures, camera and lighting, are each provided in different archive-friendly formats. The file names consist of the object name, followed by the file format, the version or type, the changes made and finally the validation result.
+A an empty scene (**minimal**) with 0 vertices, a primitve model with very 8 vertices (**cube**) and a complex model with 62.323 vertices (**mask**), where possible with textures, camera and lighting, are each provided in different archive-friendly formats. The file names consist of the object name, followed by the file format, the version or type, the changes made and finally the validation result.
 
 ## Related projects
 
@@ -28,14 +28,6 @@ This project is licensed under a [Creative Commons Attribution 4.0 International
 
 NFDI4Culture is funded by the German Research Foundation (DFG) – Project number – [441958017](https://gepris.dfg.de/gepris/projekt/441958017).
 
-### Licenses
+## Licenses
 
-The Kakadu 3D models and associated textures used in this repository are by ZDF Digital and are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
-
-- **Author:** [ZDF Digital]
-- **Source:** [https://sketchfab.com/3d-models/kakadu-von-johann-joachim-kaendler-meissen-ddebac799fa14d389a6acc68f9cbfcdf]
-- Terms of the license
-  - This content may be used, shared and modified under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) as long as the following conditions are met:
-  - Attribution to the author.
-  - Distribution under the same license terms (ShareAlike).
-  - When reusing, it must be made clear that the content is under this license.
+The ["Exotisch wirkende Maske aus Bali" (Exotic-looking mask from Bali) 3D models](https://sketchfab.com/3d-models/exotisch-wirkende-maske-aus-bali-ebdeba7d3e60499cb33037355b189acb) and associated textures used in this repository are by [Badisches Landesmuseum (Baden State Museum)](https://www.landesmuseum.de/) and are licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
