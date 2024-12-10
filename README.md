@@ -10,7 +10,7 @@ A an empty scene (`minimal`), a simple box mesh (`cube`) and a photogrammetrical
 | ----------- | ------------------------- | -------- | ------------------------------ | ------------------------- |
 | `minimal-*` | empty scene               | 0        | no                             | ![](./images/minimal.jpg) |
 | `cube-*`    | simple box mesh           | 12       | no                             | ![](./images/cube.jpg)    |
-| `mask-*`    | 3D scanned demon mask[^1] | 62.323   | yes, if supported              | ![](./images/mask.jpg)    |
+| `mask-*`    | 3D scanned demon mask[^1] | 62.323   | yes, if supported              | ![](./images/maske.jpg)   |
 
 ## Related projects
 
