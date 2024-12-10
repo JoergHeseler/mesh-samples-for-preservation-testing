@@ -7,11 +7,11 @@ This repository provides sample 3D files in various “archive-friendly” forma
 A an empty scene (`minimal`), a simple box mesh (`cube`) and a photogrammetrically scanned 3D model of mask (`mask`) are each provided in different archive-friendly formats.
 Each file name follows the following structure:
 
-`[object name]-[format]-[version]-[modification]-[status].[ext]`
+`[name]-[format]-[version]-[modification]-[status].[ext]`
 
 The tools [Blender](https://www.blender.org/), [Meshlab](https://www.meshlab.net/) and [CloudCompare](https://www.danielgm.net/cc/) were used for file conversion. Files ending with `-valid` pass validation with the validator scripts developed as part of this project. Invalid files, on the other hand, contain a short error description at the end of the file name.
 
-| Name        | Description               | Vertices | Colors/Texture/Camera/Lighting | Thumb                   |
+| Object name | Description               | Vertices | Colors/Texture/Camera/Lighting | Thumb                   |
 | ----------- | ------------------------- | -------- | ------------------------------ | ----------------------- |
 | `minimal-*` | empty scene               | 0        | no                             | ![](images/minimal.jpg) |
 | `cube-*`    | simple box mesh           | 12       | no                             | ![](images/cube.jpg)    |
