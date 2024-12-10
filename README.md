@@ -4,7 +4,7 @@ This repository provides sample 3D files in various “archive-friendly” forma
 
 ## Files
 
-A an empty scene (`minimal`), a simple box mesh (`cube`) and a photogrammetrically scanned 3D model of mask (`mask`) are each provided in different archive-friendly formats.
+A an empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned 3D model of a Balinese demon mask (**mask**) are each provided in different archive-friendly formats.
 Each file name follows the following structure:
 
 `[object name]-[format]-[version]-[modification]-[status].[extension]`
