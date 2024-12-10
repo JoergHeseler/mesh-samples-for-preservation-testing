@@ -8,9 +8,9 @@ A an empty scene (`minimal`), a simple box mesh (`cube`) and a photogrammetrical
 
 | Name        | Description     | Vertices | Colors/Texture/Camera/Lighting |
 | ----------- | --------------- | -------- | ------------------------------ |
-| **minimal** | empty scene     | 0        | no                             |
-| **cube**    | simple box mesh | 12       | no                             |
-| **mask**    | 3D scanned mask | 62.323   | yes, if supported              |
+| `minimal-*` | empty scene     | 0        | no                             |
+| `cube-*`    | simple box mesh | 12       | no                             |
+| `mask-*`    | 3D scanned mask | 62.323   | yes, if supported              |
 
 ## Related projects
 
