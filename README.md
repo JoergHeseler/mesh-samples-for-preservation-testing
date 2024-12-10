@@ -4,7 +4,7 @@ This repository provides sample 3D files in various “archive-friendly” forma
 
 ## Files
 
-A an empty scene (`minimal`), a simple box mesh (`cube`) and a photogrammetrically scanned 3D model of mask (`mask`) are each provided in different archive-friendly formats. Each file name consist of the object name, followed by the file format, the version or type, the changes made and finally the validation result. [Blender](https://www.blender.org/), [Meshlab](https://www.meshlab.net/) and [CloudCompare](https://www.danielgm.net/cc/) were used for file conversion.
+A an empty scene (`minimal`), a simple box mesh (`cube`) and a photogrammetrically scanned 3D model of mask (`mask`) are each provided in different archive-friendly formats. Each file name consist of the object name, followed by the file format, the version or type, the changes made and finally the validation result. [Blender](https://www.blender.org/), [Meshlab](https://www.meshlab.net/) and [CloudCompare](https://www.danielgm.net/cc/) were used for file conversion. Files ending with `-valid` pass validation with the validator scripts developed as part of this project.
 
 | Name        | Description     | Vertices | Colors/Texture/Camera/Lighting |
 | ----------- | --------------- | -------- | ------------------------------ |
