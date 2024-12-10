@@ -1,3 +1,5 @@
+All X3D files were validated with the [X3D validation tool](https://github.com/JoergHeseler/x3d-validator-for-archivematica). X3D files ending in `-valid` pass validation, while all other files fail.
+
 # X3D test files
 
 Various valid models and subversions can be found on the [official X3D website](https://www.web3d.org/x3d/content/examples/X3dResources.html#Examples).
