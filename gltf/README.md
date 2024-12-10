@@ -1,4 +1,4 @@
-TODO: All glTF files were validated with the [glTF validation tool](https://github.com/JoergHeseler/gltf-validator-for-archivematica). glTF files ending in `-valid` pass validation, while all other files fail.
+All glTF files were validated with the [glTF validation tool](https://github.com/JoergHeseler/gltf-validator-for-archivematica). glTF files ending in `-valid` pass validation, while all other files fail.
 
 More valid models and subversions can be found in the [official glTF sample model repository](https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/). Below is just a brief overview of a basic box model in the most popular glTF subversions:
 
