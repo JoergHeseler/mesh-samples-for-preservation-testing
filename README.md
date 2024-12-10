@@ -13,7 +13,9 @@ A an empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetr
 | `mask`      | 3D scanned demon mask[^1] | 62.323   | yes, if supported              | ![](.github/media/mask.jpg)    |
 
 All file names follow the following naming pattern:
+
 `[object name]-[format]-[version]-[modification]-[status].[extension]`
+
 Files ending with `-valid` pass validation with the validator scripts developed as part of this project.
 The tools [Blender](https://www.blender.org/), [Meshlab](https://www.meshlab.net/) and [CloudCompare](https://www.danielgm.net/cc/) were used for file conversion.
 
