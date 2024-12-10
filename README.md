@@ -16,22 +16,6 @@ A an empty scene (**minimal**), a 3D model with very few vertices (**cube**) and
 - [STL Validator for Archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
 - [X3D Validator for Archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
 
-## License
-
-The Kakadu 3D models and associated textures used in this repository are by ZDF Digital and are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
-
-### Copyright and source
-
-- **Author:** [ZDF Digital]
-- **Source:** [https://sketchfab.com/3d-models/kakadu-von-johann-joachim-kaendler-meissen-ddebac799fa14d389a6acc68f9cbfcdf]
-
-### Terms of the license
-
-- This content may be used, shared and modified under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) as long as the following conditions are met:
-- Attribution to the author.
-- Distribution under the same license terms (ShareAlike).
-- When reusing, it must be made clear that the content is under this license.
-
 ## Imprint
 
 [NFDI4Culture](https://nfdi4culture.de/) – Consortium for Research Data on Material and Immaterial Cultural Heritage
@@ -43,3 +27,15 @@ Author: [Jörg Heseler](https://orcid.org/0000-0002-1497-627X)
 This project is licensed under a [Creative Commons Attribution 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 NFDI4Culture is funded by the German Research Foundation (DFG) – Project number – [441958017](https://gepris.dfg.de/gepris/projekt/441958017).
+
+### Licenses
+
+The Kakadu 3D models and associated textures used in this repository are by ZDF Digital and are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
+
+- **Author:** [ZDF Digital]
+- **Source:** [https://sketchfab.com/3d-models/kakadu-von-johann-joachim-kaendler-meissen-ddebac799fa14d389a6acc68f9cbfcdf]
+- Terms of the license
+  - This content may be used, shared and modified under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/) as long as the following conditions are met:
+  - Attribution to the author.
+  - Distribution under the same license terms (ShareAlike).
+  - When reusing, it must be made clear that the content is under this license.
