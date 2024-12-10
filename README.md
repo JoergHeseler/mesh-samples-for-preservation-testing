@@ -1,10 +1,10 @@
-# ⚠️ Warning: Experimental Project ⚠️<br><br>3D Sample Files for Digital Preservation Testing
+# 3D Sample Files for Digital Preservation Testing
 
-This repository provides sample 3D files in various “archive-friendly” formats and subversions for testing with digital preservation tools.
+This repository provides sample 3D files in various “archive-friendly” formats and subversions for testing with digital preservation tools developed within the NFDI4Culture project.
 
 ## Files
 
-A an empty scene (**minimal**) with 0 vertices, a primitve model with very 8 vertices (**cube**) and a complex model with 62.323 vertices (**mask**), where possible with textures, camera and lighting, are each provided in different archive-friendly formats. The file names consist of the object name, followed by the file format, the version or type, the changes made and finally the validation result.
+A an empty scene (`minimal`) with 0 vertices, a primitve model with very 8 vertices (`cube`) and a complex model with 62.323 vertices (`mask`), where possible with textures, camera and lighting, are each provided in different archive-friendly formats. Each file name consist of the object name, followed by the file format, the version or type, the changes made and finally the validation result. [Blender](https://www.blender.org/), [Meshlab](https://www.meshlab.net/) and [CloudCompare](https://www.danielgm.net/cc/) were used to convert these files.
 
 ## Related projects
 
