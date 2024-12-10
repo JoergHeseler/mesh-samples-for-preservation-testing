@@ -6,11 +6,11 @@ This repository provides sample 3D files in various “archive-friendly” forma
 
 A an empty scene (`minimal`), a simple box mesh (`cube`) and a photogrammetrically scanned 3D model of mask (`mask`) are each provided in different archive-friendly formats. Each file name consist of the object name, followed by the file format, the version or type, the changes made and finally the validation result. The tools [Blender](https://www.blender.org/), [Meshlab](https://www.meshlab.net/) and [CloudCompare](https://www.danielgm.net/cc/) were used for file conversion. Files ending with `-valid` pass validation with the validator scripts developed as part of this project. Invalid files, on the other hand, contain a short error description at the end of the file name.
 
-| Name        | Description     | Vertices | Colors/Texture/Camera/Lighting |
-| ----------- | --------------- | -------- | ------------------------------ |
-| `minimal-*` | empty scene     | 0        | no                             |
-| `cube-*`    | simple box mesh | 12       | no                             |
-| `mask-*`    | 3D scanned mask | 62.323   | yes, if supported              |
+| Name        | Description         | Vertices | Colors/Texture/Camera/Lighting |
+| ----------- | ------------------- | -------- | ------------------------------ |
+| `minimal-*` | empty scene         | 0        | no                             |
+| `cube-*`    | simple box mesh     | 12       | no                             |
+| `mask-*`    | 3D scanned mask[^1] | 62.323   | yes, if supported              |
 
 ## Related projects
 
@@ -36,4 +36,4 @@ NFDI4Culture is funded by the German Research Foundation (DFG) – Project numbe
 
 ## Licenses
 
-The ["Exotisch wirkende Maske aus Bali" (Exotic-looking mask from Bali) 3D models](https://sketchfab.com/3d-models/exotisch-wirkende-maske-aus-bali-ebdeba7d3e60499cb33037355b189acb) and associated textures used in this repository are by [Badisches Landesmuseum (Baden State Museum)](https://www.landesmuseum.de/) and are licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+[^1]: The ["Exotisch wirkende Maske aus Bali" (Exotic-looking mask from Bali) 3D models](https://sketchfab.com/3d-models/exotisch-wirkende-maske-aus-bali-ebdeba7d3e60499cb33037355b189acb) and associated textures used in this repository are by [Badisches Landesmuseum (Baden State Museum)](https://www.landesmuseum.de/) and are licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
