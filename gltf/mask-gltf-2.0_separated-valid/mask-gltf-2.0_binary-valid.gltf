@@ -15,20 +15,16 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"Cube"
+			"name":"Mesh_0"
 		}
 	],
 	"materials":[
 		{
-			"doubleSided":true,
-			"name":"Material",
+			"name":"Material_0",
 			"pbrMetallicRoughness":{
-				"baseColorFactor":[
-					0.800000011920929,
-					0.800000011920929,
-					0.800000011920929,
-					1
-				],
+				"baseColorTexture":{
+					"index":0
+				},
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
@@ -36,7 +32,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Cube",
+			"name":"Mesh_0",
 			"primitives":[
 				{
 					"attributes":{
@@ -50,72 +46,93 @@
 			]
 		}
 	],
+	"textures":[
+		{
+			"sampler":0,
+			"source":0
+		}
+	],
+	"images":[
+		{
+			"mimeType":"image/jpeg",
+			"name":"Image_0",
+			"uri":"Image_0.jpg"
+		}
+	],
 	"accessors":[
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":24,
+			"count":62383,
 			"max":[
-				1,
-				1,
-				1
+				0.10535578429698944,
+				0.09283963590860367,
+				0.1596425175666809
 			],
 			"min":[
-				-1,
-				-1,
-				-1
+				-0.11596111953258514,
+				-0.132144495844841,
+				0.03223789483308792
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":24,
+			"count":62383,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":24,
+			"count":62383,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":3,
 			"componentType":5123,
-			"count":36,
+			"count":300000,
 			"type":"SCALAR"
 		}
 	],
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":288,
+			"byteLength":748596,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":288,
-			"byteOffset":288,
+			"byteLength":748596,
+			"byteOffset":748596,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":192,
-			"byteOffset":576,
+			"byteLength":499064,
+			"byteOffset":1497192,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":72,
-			"byteOffset":768,
+			"byteLength":600000,
+			"byteOffset":1996256,
 			"target":34963
+		}
+	],
+	"samplers":[
+		{
+			"magFilter":9729,
+			"minFilter":9987,
+			"wrapS":33071,
+			"wrapT":33071
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":840,
-			"uri":"cube-gltf-2.0-separated-valid.bin"
+			"byteLength":2596256,
+			"uri":"mask-gltf-2.0_binary-valid.bin"
 		}
 	]
 }
