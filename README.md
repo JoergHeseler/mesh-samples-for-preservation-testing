@@ -1,10 +1,10 @@
 # 3D Sample Files for Digital Preservation Testing
 
-This repository provides sample 3D files in various “archive-friendly” formats and subversions for testing with digital preservation tools developed within the NFDI4Culture project.
+This repository provides sample 3D files in various “archive-friendly” formats and subversions for testing with digital preservation tools developed within the NFDI4Culture project. These formats include glTF, DAE, X3D, OBJ, PLY, STL and e57.
 
 ## Files
 
-A an empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned 3D model of a Balinese demon mask (**mask**)[^1] are each provided in different archive-friendly formats.
+An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned 3D model of a Balinese demon mask (**mask**)[^1] are each provided in different archive-friendly formats.
 
 | Object name | Description                        | Vertices | Colors/Texture/Camera/Lighting                  | Thumb                          |
 | ----------- | ---------------------------------- | -------- | ----------------------------------------------- | ------------------------------ |
