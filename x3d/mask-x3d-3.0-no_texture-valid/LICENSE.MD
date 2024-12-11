@@ -20,4 +20,4 @@ For full license details, see:
 
 ## Additional Information
 
-The original GLB file from the Sketchfab page has been used and, if necessary, converted into other formats. The resulting files may have been intentionally syntactically or semantically altered to validate the functionality of tools developed for digital long-term preservation.
+The original GLB file from the Sketchfab page has been used and, if necessary, converted into other formats. The resulting files may have been intentionally syntactically or semantically altered to validate the functionality of tools developed for digital preservation.
