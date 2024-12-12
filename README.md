@@ -14,7 +14,7 @@ An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetric
 
 All file names follow the following naming pattern:
 
-`[Name]-[format]-[version]-[modification]-[status].[extension]`
+`[name]-[format]-[version]-[modification]-[status].[extension]`
 
 Files ending with `-valid` pass validation with the validator scripts developed as part of this project.
 The tools [Blender](https://www.blender.org/), [Meshlab](https://www.meshlab.net/) and [CloudCompare](https://www.danielgm.net/cc/) were used for file conversion.
