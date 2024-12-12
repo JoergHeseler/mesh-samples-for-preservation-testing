@@ -6,7 +6,7 @@ This repository provides sample 3D files in various “archive-friendly” forma
 
 An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned 3D model of a demon mask from Bali[^1] (**mask**) are each provided in different archive-friendly formats.
 
-| Name      | Description           | Vertices | Triangles | Colors/Textures/Cameras/Lighting                | Thumb                           |
+| Object    | Description           | Vertices | Triangles | Colors/Textures/Cameras/Lighting                | Thumb                           |
 | --------- | --------------------- | -------- | --------- | ----------------------------------------------- | ------------------------------- |
 | `minimal` | empty scene           | 0        | 0         | no                                              | ![](.github/media/minimal.jpg)  |
 | `cube`    | simple box mesh       | 8        | 12        | no                                              | ![](.github/media/cube.jpg)     |
@@ -14,7 +14,7 @@ An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetric
 
 All file names follow the following naming pattern:
 
-`[name]-[format]-[version]-[modification]-[status].[extension]`
+`[object]-[format]-[version]-[modification]-[status].[extension]`
 
 Files ending with `-valid` pass validation with the validator scripts developed as part of this project.
 
