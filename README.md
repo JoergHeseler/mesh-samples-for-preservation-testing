@@ -1,7 +1,6 @@
 # 3D Sample Files for Digital Preservation Testing
 
-This repository provides sample 3D files in various “archive-friendly” formats and subversions for testing with digital preservation tools developed within the NFDI4Culture project.
-These formats include glTF, DAE, X3D, OBJ, PLY, STL and E57, ordered by their suitability for digital preservation.
+This repository provides sample 3D files in various “archive-friendly” formats and subversions for testing with digital preservation tools developed as part of the NFDI4Culture project These formats include glTF, DAE, X3D, OBJ, PLY and STL for volume-based 3D models and E57 for point clouds.
 
 ## Files
 
