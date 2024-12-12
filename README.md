@@ -11,7 +11,7 @@ An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetric
 | ----------- | ---------------------------------- | -------- | --------- | ----------------------------------------------- | ------------------------------ |
 | `minimal`   | empty scene                        | 0        | 0         | no                                              | ![](.github/media/minimal.jpg) |
 | `cube`      | simple box mesh                    | 8        | 12        | no                                              | ![](.github/media/cube.jpg)    |
-| `mask`      | 3D scanned Balinese demon mask[^1] | 62.323   | 100.000   | yes, if supported by the respective file format | ![](.github/media/mask.jpg)    |
+| `mask`      | 3D scanned Balinese demon mask[^1] | 62,323   | 100,000   | yes, if supported by the respective file format | ![](.github/media/mask.jpg)    |
 
 All file names follow the following naming pattern:
 
