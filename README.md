@@ -7,11 +7,11 @@ These formats include glTF, DAE, X3D, OBJ, PLY, STL and E57, ordered by their su
 
 An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned 3D model of a Balinese demon mask (**mask**)[^1] are each provided in different archive-friendly formats.
 
-| Object name | Description                        | Vertices | Triangles | Colors/Texture/Camera/Lighting                  | Thumb                          |
-| ----------- | ---------------------------------- | -------- | --------- | ----------------------------------------------- | ------------------------------ |
-| `minimal`   | empty scene                        | 0        | 0         | no                                              | ![](.github/media/minimal.jpg) |
-| `cube`      | simple box mesh                    | 8        | 12        | no                                              | ![](.github/media/cube.jpg)    |
-| `mask`      | 3D scanned Balinese demon mask[^1] | 62,323   | 100,000   | yes, if supported by the respective file format | ![](.github/media/mask.jpg)    |
+| Object name | Description           | Vertices | Triangles | Colors/Texture/Camera/Lighting                  | Thumb                           |
+| ----------- | --------------------- | -------- | --------- | ----------------------------------------------- | ------------------------------- |
+| `minimal`   | empty scene           | 0        | 0         | no                                              | ![](.github/media/minimal.jpg)  |
+| `cube`      | simple box mesh       | 8        | 12        | no                                              | ![](.github/media/cube.jpg)     |
+| `mask`      | 3D scanned demon mask | 62,323   | 100,000   | yes, if supported by the respective file format | ![](.github/media/mask.jpg)[^1] |
 
 All file names follow the following naming pattern:
 
