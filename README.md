@@ -6,15 +6,15 @@ This repository provides sample 3D files in various “archive-friendly” forma
 
 An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned 3D model of a demon mask from Bali[^1] (**mask**) are each provided in different archive-friendly formats.
 
-| Object name | Description           | Vertices | Triangles | Colors/Texture/Camera/Lighting                  | Thumb                           |
-| ----------- | --------------------- | -------- | --------- | ----------------------------------------------- | ------------------------------- |
-| `minimal`   | empty scene           | 0        | 0         | no                                              | ![](.github/media/minimal.jpg)  |
-| `cube`      | simple box mesh       | 8        | 12        | no                                              | ![](.github/media/cube.jpg)     |
-| `mask`      | 3D scanned demon mask | 62,323   | 100,000   | yes, if supported by the respective file format | ![](.github/media/mask.jpg)[^1] |
+| Name      | Description           | Vertices | Triangles | Colors/Texture/Camera/Lighting                  | Thumb                           |
+| --------- | --------------------- | -------- | --------- | ----------------------------------------------- | ------------------------------- |
+| `minimal` | empty scene           | 0        | 0         | no                                              | ![](.github/media/minimal.jpg)  |
+| `cube`    | simple box mesh       | 8        | 12        | no                                              | ![](.github/media/cube.jpg)     |
+| `mask`    | 3D scanned demon mask | 62,323   | 100,000   | yes, if supported by the respective file format | ![](.github/media/mask.jpg)[^1] |
 
 All file names follow the following naming pattern:
 
-`[object name]-[format]-[version]-[modification]-[status].[extension]`
+`[Name]-[format]-[version]-[modification]-[status].[extension]`
 
 Files ending with `-valid` pass validation with the validator scripts developed as part of this project.
 The tools [Blender](https://www.blender.org/), [Meshlab](https://www.meshlab.net/) and [CloudCompare](https://www.danielgm.net/cc/) were used for file conversion.
