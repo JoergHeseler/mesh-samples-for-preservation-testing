@@ -12,7 +12,7 @@ An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetric
 | `cube`    | simple box mesh       | 8        | 12        | no                                              | ![](.github/media/cube.jpg)     |
 | `mask`    | 3D scanned demon mask | 62,323   | 100,000   | yes, if supported by the respective file format | ![](.github/media/mask.jpg)[^1] |
 
-All file names follow the following naming pattern:
+All 3D sample files provided in this repository follow the following naming pattern:
 
 `[object]-[format]-[version]-[modification]-[status].[extension]`
 
