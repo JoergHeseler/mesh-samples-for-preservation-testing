@@ -5,7 +5,7 @@ These formats include glTF, DAE, X3D, OBJ, PLY, STL and E57, ordered by their su
 
 ## Files
 
-An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned 3D model of a demon mask from Bali (**mask**)[^1] are each provided in different archive-friendly formats.
+An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned 3D model of a demon mask from Bali[^1] (**mask**) are each provided in different archive-friendly formats.
 
 | Object name | Description           | Vertices | Triangles | Colors/Texture/Camera/Lighting                  | Thumb                           |
 | ----------- | --------------------- | -------- | --------- | ----------------------------------------------- | ------------------------------- |
