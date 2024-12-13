@@ -4,13 +4,13 @@ This repository provides sample 3D files in various “archive-friendly” forma
 
 ## Files
 
-An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned porcelain kakadu [^1] (**kakadu**) are each provided in different archive-friendly formats.
+An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned porcelain cockatoo [^1] (**cockatoo**) are each provided in different archive-friendly formats.
 
-| Object    | Description                 | Vertices | Triangles | Colors/Textures/Cameras/Lighting                | Preview                           |
-| --------- | --------------------------- | -------- | --------- | ----------------------------------------------- | --------------------------------- |
-| `minimal` | empty scene                 | 0        | 0         | no                                              | ![](.github/media/minimal.jpg)    |
-| `cube`    | simple box mesh             | 8        | 12        | no                                              | ![](.github/media/cube.jpg)       |
-| `kakadu`  | 3D scanned porcelain kakadu | 518,889  | 776,822   | yes, if supported by the respective file format | ![](.github/media/kakadu.jpg)[^1] |
+| Object     | Description                   | Vertices | Triangles | Colors/Textures/Cameras/Lighting                | Preview                             |
+| ---------- | ----------------------------- | -------- | --------- | ----------------------------------------------- | ----------------------------------- |
+| `minimal`  | empty scene                   | 0        | 0         | no                                              | ![](.github/media/minimal.jpg)      |
+| `cube`     | simple box mesh               | 8        | 12        | no                                              | ![](.github/media/cube.jpg)         |
+| `cockatoo` | 3D scanned porcelain cockatoo | 518,889  | 776,822   | yes, if supported by the respective file format | ![](.github/media/cockatoo.jpg)[^1] |
 
 All 3D sample files provided in this repository follow the following naming pattern:
 
@@ -42,4 +42,4 @@ NFDI4Culture is funded by the German Research Foundation (DFG) – Project numbe
 
 ## Licenses
 
-[^1]: The ["Exotisch wirkende Maske aus Bali" (Exotic-looking mask from Bali) 3D models](https://sketchfab.com/3d-models/exotisch-wirkende-maske-aus-bali-ebdeba7d3e60499cb33037355b189acb) and associated textures used in this repository are by [Badisches Landesmuseum (Baden State Museum)](https://www.landesmuseum.de/) and are licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The original GLB file from the Sketchfab page has been used and, if necessary, converted into other formats. The resulting files may have been intentionally syntactically or semantically altered to validate the functionality of tools developed for digital preservation.
+[^1]: The ["Kakadu von Johann Joachim Kaendler, Meissen" (Cockatoo by Johann Joachim Kaendler, Meissen) 3D models](https://sketchfab.com/3d-models/cockatoo-von-johann-joachim-kaendler-meissen-ddebac799fa14d389a6acc68f9cbfcdf) and associated textures used in this repository are by [ZDF Digital](https://zdf.digital/) and [Porzellansammlung, Staatliche Kunstsammlungen Dresden (Porcelain collection, Dresden State Art Collections)](https://www.skd.museum/). They are licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The original GLB file from the Sketchfab page has been used and, if necessary, converted into other formats. The resulting files may have been intentionally syntactically or semantically altered to validate the functionality of tools developed for digital preservation.
