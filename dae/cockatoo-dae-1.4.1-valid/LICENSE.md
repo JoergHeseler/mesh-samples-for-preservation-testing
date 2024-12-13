@@ -1,23 +1,22 @@
 # License Information
 
-The files in this folder are based on the 3D model **Kakadu von Johann Joachim Kändler (Meissen)**, provided on Sketchfab:  
+The files in this folder are based on the 3D model **Kakadu von Johann Joachim Kaendler, Meissen (Cockatoo by Johann Joachim Kaendler, Meissen)**, provided by the **Porzellansammlung, Staatliche Kunstsammlungen Dresden (Porcelain Collection, Dresden State Art Collections)** and originally published on Sketchfab:  
 [https://sketchfab.com/3d-models/kakadu-von-johann-joachim-kaendler-meissen-ddebac799fa14d389a6acc68f9cbfcdf](https://sketchfab.com/3d-models/kakadu-von-johann-joachim-kaendler-meissen-ddebac799fa14d389a6acc68f9cbfcdf)
 
 ## License
 
-This model is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. You are free to:
+This model is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**. You are free to:
 
-- Share: Copy and redistribute the material in any medium or format.
-- Adapt: Remix, transform, and build upon the material for non-commercial purposes.
+- **Share**: Copy and redistribute the material in any medium or format.
+- **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
 
 Under the following terms:
 
-- **Attribution:** You must give appropriate credit to the creator, provide a link to the license, and indicate if changes were made.
-- **NonCommercial:** You may not use the material for commercial purposes.
-- **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+- **Attribution**: You must give appropriate credit to the creator, provide a link to the license, and indicate if changes were made.
+- **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 For full license details, see:  
-[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Additional Information
 
