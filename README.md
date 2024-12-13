@@ -4,13 +4,13 @@ This repository provides sample 3D files in various “archive-friendly” forma
 
 ## Files
 
-An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned 3D model of a demon mask from Bali[^1] (**mask**) are each provided in different archive-friendly formats.
+An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned porcelain kakadu [^1] (**kakadu**) are each provided in different archive-friendly formats.
 
-| Object    | Description           | Vertices | Triangles | Colors/Textures/Cameras/Lighting                | Preview                         |
-| --------- | --------------------- | -------- | --------- | ----------------------------------------------- | ------------------------------- |
-| `minimal` | empty scene           | 0        | 0         | no                                              | ![](.github/media/minimal.jpg)  |
-| `cube`    | simple box mesh       | 8        | 12        | no                                              | ![](.github/media/cube.jpg)     |
-| `mask`    | 3D scanned demon mask | 62,323   | 100,000   | yes, if supported by the respective file format | ![](.github/media/mask.jpg)[^1] |
+| Object    | Description                 | Vertices | Triangles | Colors/Textures/Cameras/Lighting                | Preview                           |
+| --------- | --------------------------- | -------- | --------- | ----------------------------------------------- | --------------------------------- |
+| `minimal` | empty scene                 | 0        | 0         | no                                              | ![](.github/media/minimal.jpg)    |
+| `cube`    | simple box mesh             | 8        | 12        | no                                              | ![](.github/media/cube.jpg)       |
+| `kakadu`  | 3D scanned porcelain kakadu | 518,889  | 776,822   | yes, if supported by the respective file format | ![](.github/media/kakadu.jpg)[^1] |
 
 All 3D sample files provided in this repository follow the following naming pattern:
 
