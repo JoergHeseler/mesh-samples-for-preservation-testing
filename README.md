@@ -29,6 +29,10 @@ Files ending with `-valid` pass validation with the validator scripts developed 
 - [STL Validator for Archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
 - [X3D Validator for Archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
 
+## Acknowledgments
+
+Special thanks to Grischka Petri and the colleagues from the SLUB Dresden, specifically from the Infrastructure and Long-Term Availability division, for their support and valuable feedback during the development.
+
 ## Imprint
 
 [NFDI4Culture](https://nfdi4culture.de/) – Consortium for Research Data on Material and Immaterial Cultural Heritage
