@@ -45,6 +45,6 @@ This repository is licensed under a [Creative Commons Attribution 4.0 Internatio
 
 NFDI4Culture is funded by the German Research Foundation (DFG) – Project number – [441958017](https://gepris.dfg.de/gepris/projekt/441958017).
 
-## Licenses
+### Licenses
 
 [^1]: The ["Kakadu von Johann Joachim Kaendler, Meissen" (Cockatoo by Johann Joachim Kaendler, Meissen) 3D models](https://sketchfab.com/3d-models/cockatoo-von-johann-joachim-kaendler-meissen-ddebac799fa14d389a6acc68f9cbfcdf) and associated textures used in this repository are by [ZDF Digital](https://zdf.digital/) and [Porzellansammlung, Staatliche Kunstsammlungen Dresden (Porcelain collection, Dresden State Art Collections)](https://www.skd.museum/). They are licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The original GLB file from the Sketchfab page has been used and, if necessary, converted into other formats. The resulting files may have been intentionally syntactically or semantically altered to validate the functionality of tools developed for digital preservation.
