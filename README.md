@@ -24,7 +24,7 @@ Files ending with `-valid` pass validation with the validator scripts developed 
 - [glTF Metadata Extractor for Archivematica](https://github.com/JoergHeseler/gltf-metadata-extractor-for-archivematica)
 - [glTF Validator for Archivematica](https://github.com/JoergHeseler/gltf-validator-for-archivematica)
 - [Siegfried Falls Back on Fido Identifier for Archivematica](https://github.com/JoergHeseler/siegfried-falls-back-on-fido-identifier-for-archivematica)
-- [STL Cleaner](https://github.com/JoergHeseler/stl-cleaner)
+<!-- - [STL Cleaner](https://github.com/JoergHeseler/stl-cleaner) -->
 - [STL Metadata Extractor for Archivematica](https://github.com/JoergHeseler/stl-metadata-extractor-for-archivematica)
 - [STL Validator for Archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
 - [X3D Validator for Archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
