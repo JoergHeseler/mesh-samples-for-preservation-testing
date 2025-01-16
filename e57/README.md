@@ -1,1 +1,1 @@
-All E57 files were validated using the [offical E57 validation tool](http://www.libe57.org/download.html). It was not possible to create a minimal E57 file because both [MeshLab 2023.12](https://www.meshlab.net/#download) and a program based on the official [libE57Format 3.2.0](https://github.com/asmaloney/libE57Format) library crashed when exporting without point data.
+All E57 files were validated using the [offical E57 validation tool](http://www.libe57.org/download.html).
