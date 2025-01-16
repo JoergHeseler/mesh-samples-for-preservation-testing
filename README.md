@@ -16,7 +16,7 @@ All 3D sample files provided in this repository follow the following naming patt
 
 `[object]-[format]-[version]-[modification]-[status].[extension]`
 
-Files ending with `-valid` pass validation with the validator scripts developed as part of this project.
+Files ending with `-valid` pass validation with the validator scripts developed as part of this project. The validity of files with the extension `-unknown` could not be verified.
 
 ## Related projects
 
