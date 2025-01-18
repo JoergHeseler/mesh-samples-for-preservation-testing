@@ -1,24 +1,33 @@
 # 3D Sample Files for Digital Preservation Testing
 
-This repository provides sample 3D files in various “archive-friendly” formats and subversions for testing with digital preservation tools developed as part of the NFDI4Culture project These formats include glTF, DAE, X3D, OBJ, PLY and STL for volume-based 3D models and E57 for point clouds. To convert the files into different 3D formats, the tools [Blender](https://www.blender.org/), [Meshlab](https://www.meshlab.net/) and [CloudCompare](https://www.danielgm.net/cc/) were used.
+This repository contains sample 3D files in various "archive-friendly" formats and subversions, designed for testing with digital preservation tools developed within the [NFDI4Culture](https://nfdi4culture.de/) project. Supported formats include:
+
+- **Volume-based models**: glTF, DAE, X3D, OBJ, PLY, STL
+- **Point clouds**: E57
+
+The files were converted using [Blender](https://www.blender.org/), [MeshLab](https://www.meshlab.net/), and [CloudCompare](https://www.danielgm.net/cc/).
 
 ## Files
 
-An empty scene (**minimal**), a simple box mesh (**cube**) and a photogrammetrically scanned porcelain cockatoo [^1] (**cockatoo**) are each provided in different archive-friendly formats.
+This repository provides the following objects in different formats:
 
-| Object     | Description                   | Vertices | Triangles | Colors/Textures/Cameras/Lighting                | Preview                             |
-| ---------- | ----------------------------- | -------- | --------- | ----------------------------------------------- | ----------------------------------- |
-| `minimal`  | empty scene                   | 0        | 0         | no                                              | ![](.github/media/minimal.jpg)      |
-| `cube`     | simple box mesh               | 8        | 12        | no                                              | ![](.github/media/cube.jpg)         |
-| `cockatoo` | 3D scanned porcelain cockatoo | 518,889  | 776,822   | yes, if supported by the respective file format | ![](.github/media/cockatoo.jpg)[^1] |
+| Object     | Description                   | Vertices | Triangles | Additional Features                                | Preview                             |
+| ---------- | ----------------------------- | -------- | --------- | -------------------------------------------------- | ----------------------------------- |
+| `minimal`  | Empty scene                   | 0        | 0         | None                                               | ![](.github/media/minimal.jpg)      |
+| `cube`     | Simple box mesh               | 8        | 12        | None                                               | ![](.github/media/cube.jpg)         |
+| `cockatoo` | 3D-scanned porcelain cockatoo | 518,889  | 776,822   | Colors, textures, cameras, lighting (if supported) | ![](.github/media/cockatoo.jpg)[^1] |
 
-All 3D sample files provided in this repository follow the following naming pattern:
+### File Naming Convention
 
+Files are named as follows:  
 `[object]-[format]-[version]-[modification]-[status].[extension]`
 
-Files ending with `-valid` pass validation with the validator scripts developed as part of this project. The validity of files ending with `-unknown` could not be checked because appropriate tools were missing.
+- **`-valid`**: Files pass validation using the project's validator scripts.
+- **`-unknown`**: Files could not be validated due to the lack of suitable tools.
 
-## Related projects
+## Related Projects
+
+This repository is part of a larger initiative. Additional tools developed for digital preservation include:
 
 - [DAE Validator for Archivematica](https://github.com/JoergHeseler/dae-validator-for-archivematica)
 - [glTF Metadata Extractor for Archivematica](https://github.com/JoergHeseler/gltf-metadata-extractor-for-archivematica)
@@ -31,20 +40,16 @@ Files ending with `-valid` pass validation with the validator scripts developed 
 
 ## Acknowledgments
 
-Special thanks to Grischka Petri and the colleagues from the SLUB Dresden, specifically from the Infrastructure and Long-Term Availability division, for their support and valuable feedback during the development.
+Special thanks to Grischka Petri and the colleagues from the SLUB Dresden, particularly the IT-Infrastructure and Digital Long-Term Preservation unit, for their invaluable support and feedback.
 
 ## Imprint
 
-[NFDI4Culture](https://nfdi4culture.de/) – Consortium for Research Data on Material and Immaterial Cultural Heritage
+[NFDI4Culture](https://nfdi4culture.de/) – Consortium for Research Data on Material and Immaterial Cultural Heritage.  
+Funded by the German Research Foundation (DFG), Project No. [441958017](https://gepris.dfg.de/gepris/projekt/441958017).
 
-NFDI4Culture is a consortium within the German [National Research Data Infrastructure (NFDI)](https://www.nfdi.de/).
-
-Author: [Jörg Heseler](https://orcid.org/0000-0002-1497-627X)
-
-This repository is licensed under a [Creative Commons Attribution 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
-
-NFDI4Culture is funded by the German Research Foundation (DFG) – Project number – [441958017](https://gepris.dfg.de/gepris/projekt/441958017).
+**Author**: [Jörg Heseler](https://orcid.org/0000-0002-1497-627X)  
+**License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Licenses
 
-[^1]: The ["Kakadu von Johann Joachim Kaendler, Meissen" (Cockatoo by Johann Joachim Kaendler, Meissen) 3D models](https://sketchfab.com/3d-models/cockatoo-von-johann-joachim-kaendler-meissen-ddebac799fa14d389a6acc68f9cbfcdf) and associated textures used in this repository are by [ZDF Digital](https://zdf.digital/) and [Porzellansammlung, Staatliche Kunstsammlungen Dresden (Porcelain collection, Dresden State Art Collections)](https://www.skd.museum/). They are licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The original GLB file from the Sketchfab page has been used and, if necessary, converted into other formats. The resulting files may have been intentionally syntactically or semantically altered to validate the functionality of tools developed for digital preservation.
+[^1]: The ["Kakadu von Johann Joachim Kaendler, Meissen" (Cockatoo by Johann Joachim Kaendler, Meissen) 3D models](https://sketchfab.com/3d-models/cockatoo-von-johann-joachim-kaendler-meissen-ddebac799fa14d389a6acc68f9cbfcdf) and associated textures are provided by [ZDF Digital](https://zdf.digital/) and [Porzellansammlung, Staatliche Kunstsammlungen Dresden (Porcelain Collection, Dresden State Art Collections)](https://www.skd.museum/). These are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The original GLB file from Sketchfab was used and converted into other formats as needed. Files may have been intentionally modified to test the tools developed for digital preservation.
