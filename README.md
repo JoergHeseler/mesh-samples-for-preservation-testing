@@ -25,6 +25,10 @@ Files are named as follows:
 - **`-valid`**: Files pass validation using the project's validator scripts.
 - **`-unknown`**: Files could not be validated due to the lack of suitable tools.
 
+## Outlook and Conclusion
+
+Validators for E57, DAE, glTF, STL, and X3D have been written or identified. However, tools for OBJ and PLY are still required and must be developed following their official specifications. Once these are available, the corresponding 3D sample files will be further validated and refined to ensure compliance, enhancing the robustness of digital preservation workflows. Contributions to this effort are welcome.
+
 ## Related Projects
 
 This repository is part of a larger initiative. Additional tools developed for digital preservation include:
