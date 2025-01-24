@@ -1,7 +1,8 @@
 # 3D Sample Files for Digital Preservation Testing
 
 This repository contains sample 3D files in various "archive-friendly" formats and subversions, designed for testing with digital preservation tools developed within the [NFDI4Culture](https://nfdi4culture.de/) project. The selection of these volume-based formats and point cloud formats, including glTF, DAE, X3D, OBJ, PLY, STL, and E57, is based on a prior [Identification of Archive-Friendly Formats](https://docs.google.com/spreadsheets/d/1c3EeDgJ2qWNWc35F35atYD4mgLkvk5tS7q632Ti-eDE/edit?gid=852170763#gid=852170763).
-File conversions were performed using [Blender](https://www.blender.org/), [MeshLab](https://www.meshlab.net/), and [CloudCompare](https://www.danielgm.net/cc/). These files aim to support robust workflows for validating and preserving 3D data.
+
+File conversions of sample files of this repository were performed using [Blender](https://www.blender.org/), [MeshLab](https://www.meshlab.net/), and [CloudCompare](https://www.danielgm.net/cc/). These files aim to support robust workflows for validating and preserving 3D data.
 
 ## Files
 
