@@ -1,6 +1,6 @@
-# 3D Sample Files for Digital Preservation Testing
+# 3D Mesh Samples for Digital Preservation Testing
 
-This repository contains sample 3D files in various "archive-friendly" formats and subversions, designed for testing with digital preservation tools developed within the [NFDI4Culture](https://nfdi4culture.de/) project. The selection of these volume-based formats and point cloud formats, including glTF, DAE, X3D, OBJ, PLY, STL, and E57, is based on a prior [Identification of Archive-Friendly Formats](https://docs.google.com/spreadsheets/d/1c3EeDgJ2qWNWc35F35atYD4mgLkvk5tS7q632Ti-eDE/edit?gid=852170763#gid=852170763).
+This repository contains sample 3D files in various "archive-friendly" formats and subversions, designed for testing with digital preservation tools developed within the [NFDI4Culture](https://nfdi4culture.de/) project. The selection of these mesh formats, including glTF, DAE, X3D, OBJ, PLY and STL, is based on a prior [Identification of Archive-Friendly Formats](https://docs.google.com/spreadsheets/d/1c3EeDgJ2qWNWc35F35atYD4mgLkvk5tS7q632Ti-eDE/edit?gid=852170763#gid=852170763).
 
 File conversions of sample files of this repository were performed using [Blender](https://www.blender.org/), [MeshLab](https://www.meshlab.net/), and [CloudCompare](https://www.danielgm.net/cc/). These files aim to support robust workflows for validating and preserving 3D data.
 
@@ -24,7 +24,7 @@ Files are named as follows:
 
 ## Outlook and Conclusion
 
-Validators for E57, DAE, glTF, STL, and X3D have been written or identified. However, tools for OBJ and PLY are still required and must be developed following their official specifications. Once these are available, the corresponding 3D sample files will be further validated and refined to ensure compliance, enhancing the robustness of digital preservation workflows. Contributions to this effort are welcome.
+Validators for DAE, glTF, STL, and X3D have been written or identified. However, tools for OBJ and PLY are still required and must be developed following their official specifications. Once these are available, the corresponding 3D sample files will be further validated and refined to ensure compliance, enhancing the robustness of digital preservation workflows. Contributions to this effort are welcome.
 
 ## Related Projects
 
